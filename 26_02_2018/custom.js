@@ -1,27 +1,27 @@
-// Задание 1
-// Сообщение приветствия
-alert("Приветствую");
+// Р—Р°РґР°РЅРёРµ 1
+// РЎРѕРѕР±С‰РµРЅРёРµ РїСЂРёРІРµС‚СЃС‚РІРёСЏ
+alert("РџСЂРёРІРµС‚СЃС‚РІСѓСЋ");
 
-//Задание 2
+//Р—Р°РґР°РЅРёРµ 2
 var firstName = 'Alex';
 var lastName = '';
 lastName = firstName;
 document.write(lastName);
 
-//Задание 3
+//Р—Р°РґР°РЅРёРµ 3
 var yourName = 'Alex';
 var yourSurname = 'Lalala'
 var yourAge = 30;
-var yourEducation = 'Высшее';
-var yourHobbies = 'Футбол';
+var yourEducation = 'Р’С‹СЃС€РµРµ';
+var yourHobbies = 'Р¤СѓС‚Р±РѕР»';
 
-//Задание 4
-document.write('<br>Задание 4: Будет ошибка так, как переменная \'x\' не определена')
+//Р—Р°РґР°РЅРёРµ 4
+document.write('<br>Р—Р°РґР°РЅРёРµ 4: Р‘СѓРґРµС‚ РѕС€РёР±РєР° С‚Р°Рє, РєР°Рє РїРµСЂРµРјРµРЅРЅР°СЏ \'x\' РЅРµ РѕРїСЂРµРґРµР»РµРЅР°')
 
-//Задание 5
-var a = prompt("Число 1: ");
-var b = prompt("Число 2: ");
+//Р—Р°РґР°РЅРёРµ 5
+var a = prompt("Р§РёСЃР»Рѕ 1: ");
+var b = prompt("Р§РёСЃР»Рѕ 2: ");
 var res = parseInt(a) + parseInt(b);
 
-alert('Сума двох чисел равна: ' + res)
+alert('РЎСѓРјР° РґРІРѕС… С‡РёСЃРµР» СЂР°РІРЅР°: ' + res)
 
